@@ -2,7 +2,7 @@
 Neural Simile Recognition with Cyclic Multitask Learning and Local Attention
 =====================================================================
 
-This codebase contains all scripts except training corpus to reproduce our results in the paper.
+This codebase contains all scripts and training corpus to reproduce our results in the paper.
 
 ### Installation
 
